@@ -6,6 +6,7 @@ import AboutUs from "./components/AboutUs";
 import Project from "./components/Project";
 import Volunteer from "./components/Volunteer";
 import Contact from "./components/Contact";
+import Info from "./components/Info";
 import './components/Responsive.css';
 import image from './Images/image.webp'
 import Donation from "./components/Donation";
@@ -19,7 +20,7 @@ function App() {
           <Routes>
             <Route
               path="/frugalfashion"
-              element={<AboutUs />} 
+              element={<Info />} 
             />
             <Route path="/aboutus" element={<AboutUs />} />
             <Route path="/project" element={<Project />} />
