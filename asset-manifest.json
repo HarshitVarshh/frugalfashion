@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/frugalfashion/static/css/main.35fa66cb.css",
-    "main.js": "/frugalfashion/static/js/main.b9dcfe2a.js",
+    "main.js": "/frugalfashion/static/js/main.bee4c0b9.js",
     "static/js/787.d0da2bc9.chunk.js": "/frugalfashion/static/js/787.d0da2bc9.chunk.js",
     "static/media/image.webp": "/frugalfashion/static/media/image.668f88b706bfb6d8c1f5.webp",
     "static/media/prachi.jpeg": "/frugalfashion/static/media/prachi.013efe1cc4acc83c6694.jpeg",
+    "static/media/prachi2.jpeg": "/frugalfashion/static/media/prachi2.82868ec8b6ebca05b243.jpeg",
     "static/media/logo.svg": "/frugalfashion/static/media/logo.4c2bf2bf831cd0538239c6132acd5ae9.svg",
     "index.html": "/frugalfashion/index.html",
     "main.35fa66cb.css.map": "/frugalfashion/static/css/main.35fa66cb.css.map",
-    "main.b9dcfe2a.js.map": "/frugalfashion/static/js/main.b9dcfe2a.js.map",
+    "main.bee4c0b9.js.map": "/frugalfashion/static/js/main.bee4c0b9.js.map",
     "787.d0da2bc9.chunk.js.map": "/frugalfashion/static/js/787.d0da2bc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35fa66cb.css",
-    "static/js/main.b9dcfe2a.js"
+    "static/js/main.bee4c0b9.js"
   ]
 }
