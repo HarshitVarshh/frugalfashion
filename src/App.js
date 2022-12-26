@@ -18,9 +18,8 @@ function App() {
         <div className="body">
           <Routes>
             <Route
-              path="/"
-              exact
-              element={<img src={image} className="body_image"></img>}
+              path="/frugalfashion"
+              element={<AboutUs />} 
             />
             <Route path="/aboutus" element={<AboutUs />} />
             <Route path="/project" element={<Project />} />
