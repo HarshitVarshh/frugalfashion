@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frugalfashion/static/css/main.9a7cc3f2.css",
+    "main.js": "/frugalfashion/static/js/main.fae29e1c.js",
+    "static/js/787.d0da2bc9.chunk.js": "/frugalfashion/static/js/787.d0da2bc9.chunk.js",
+    "static/media/image.webp": "/frugalfashion/static/media/image.668f88b706bfb6d8c1f5.webp",
+    "static/media/logo.svg": "/frugalfashion/static/media/logo.4c2bf2bf831cd0538239c6132acd5ae9.svg",
+    "index.html": "/frugalfashion/index.html",
+    "main.9a7cc3f2.css.map": "/frugalfashion/static/css/main.9a7cc3f2.css.map",
+    "main.fae29e1c.js.map": "/frugalfashion/static/js/main.fae29e1c.js.map",
+    "787.d0da2bc9.chunk.js.map": "/frugalfashion/static/js/787.d0da2bc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7cc3f2.css",
+    "static/js/main.fae29e1c.js"
+  ]
+}
